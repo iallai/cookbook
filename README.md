@@ -1,2 +1,2 @@
-# practiseLisp
-practiseLisp
+# cookbook
+only a cookbook
