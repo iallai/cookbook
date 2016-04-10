@@ -1,2 +1,2 @@
 # cookbook
-only a cookbook
+only a cookbook.
